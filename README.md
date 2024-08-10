@@ -1,2 +1,3 @@
 # my-first-project
-goit-project
+
+This is my first project
